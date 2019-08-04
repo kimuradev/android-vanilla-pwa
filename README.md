@@ -1,3 +1,12 @@
+# Project base to generate your PWA available to publish at PlayStore. 
+
+Also I wrote an article to explain step-by-step how it works.
+
+https://medium.com/@kimuradev/pwa-do-codigo-a-loja-3-de-3-58570f39ef81
+
+Enjoy it!
+
+
 # SVGOMG / Trusted Web Activity
 
 This project uses the
